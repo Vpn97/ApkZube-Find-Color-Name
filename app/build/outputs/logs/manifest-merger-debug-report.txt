@@ -1,0 +1,151 @@
+-- Merging decision tree log ---
+manifest
+ADDED from E:\College Study\ApkZube\BlindVision\ColorNameDemo\app\src\main\AndroidManifest.xml:2:1-21:12
+INJECTED from E:\College Study\ApkZube\BlindVision\ColorNameDemo\app\src\main\AndroidManifest.xml:2:1-21:12
+INJECTED from E:\College Study\ApkZube\BlindVision\ColorNameDemo\app\src\main\AndroidManifest.xml:2:1-21:12
+INJECTED from E:\College Study\ApkZube\BlindVision\ColorNameDemo\app\src\main\AndroidManifest.xml:2:1-21:12
+MERGED from [androidx.databinding:databinding-adapters:3.6.0-alpha05] C:\Users\Dell\.gradle\caches\transforms-2\files-2.1\f8b560d990ea4abf79983052fa2fb922\databinding-adapters-3.6.0-alpha05\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.databinding:databinding-runtime:3.6.0-alpha05] C:\Users\Dell\.gradle\caches\transforms-2\files-2.1\0fc63d104d4736dbb9f67207c3b79bed\databinding-runtime-3.6.0-alpha05\AndroidManifest.xml:17:1-24:12
+MERGED from [:apkzube-findcolorname] E:\College Study\ApkZube\BlindVision\ColorNameDemo\apkzube-findcolorname\build\intermediates\library_manifest\debug\AndroidManifest.xml:2:1-11:12
+MERGED from [androidx.appcompat:appcompat:1.1.0] C:\Users\Dell\.gradle\caches\transforms-2\files-2.1\514b34dadbf8e5520ce78c9418b31f25\appcompat-1.1.0\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.constraintlayout:constraintlayout:1.1.3] C:\Users\Dell\.gradle\caches\transforms-2\files-2.1\0a5e1b036768b77b325f9c9fff6932cd\constraintlayout-1.1.3\AndroidManifest.xml:2:1-11:12
+MERGED from [com.github.yukuku:ambilwarna:2.0.1] C:\Users\Dell\.gradle\caches\transforms-2\files-2.1\5eba0457b54b3e58634a37e2b3a8668a\ambilwarna-2.0.1\AndroidManifest.xml:2:1-12:12
+MERGED from [androidx.databinding:viewbinding:3.6.0-alpha05] C:\Users\Dell\.gradle\caches\transforms-2\files-2.1\4e5237ea3c70e242e5311cbc98f7d237\viewbinding-3.6.0-alpha05\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.fragment:fragment:1.1.0] C:\Users\Dell\.gradle\caches\transforms-2\files-2.1\81bb1e4b52adb53299629bd00b7fb1d8\fragment-1.1.0\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.appcompat:appcompat-resources:1.1.0] C:\Users\Dell\.gradle\caches\transforms-2\files-2.1\230c050f7abb294c4a554b9cce40d3c5\appcompat-resources-1.1.0\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.drawerlayout:drawerlayout:1.0.0] C:\Users\Dell\.gradle\caches\transforms-2\files-2.1\5ef26c5f70bb0e9aa01f925926df8980\drawerlayout-1.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.viewpager:viewpager:1.0.0] C:\Users\Dell\.gradle\caches\transforms-2\files-2.1\3abde5b60aac3c617ee2493a824e9744\viewpager-1.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.loader:loader:1.0.0] C:\Users\Dell\.gradle\caches\transforms-2\files-2.1\2ece749b2aabe02c40af6bfecc8abb6f\loader-1.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.activity:activity:1.0.0] C:\Users\Dell\.gradle\caches\transforms-2\files-2.1\952c7eb96ce9207cbb23b64d6adce29b\activity-1.0.0\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.vectordrawable:vectordrawable-animated:1.1.0] C:\Users\Dell\.gradle\caches\transforms-2\files-2.1\4dd375ff3b9cdb68967e3ec18f05a532\vectordrawable-animated-1.1.0\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.vectordrawable:vectordrawable:1.1.0] C:\Users\Dell\.gradle\caches\transforms-2\files-2.1\332c5cdf7c7457b1fce41d5ec85170dd\vectordrawable-1.1.0\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.customview:customview:1.0.0] C:\Users\Dell\.gradle\caches\transforms-2\files-2.1\9f552cbe538e9b49a5d22679aeffe5f2\customview-1.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.core:core:1.1.0] C:\Users\Dell\.gradle\caches\transforms-2\files-2.1\562dc0bf5271c61f65ec6c64ea84320f\core-1.1.0\AndroidManifest.xml:17:1-26:12
+MERGED from [androidx.lifecycle:lifecycle-runtime:2.1.0] C:\Users\Dell\.gradle\caches\transforms-2\files-2.1\f4e70f7cf70c38da20d2c2bf38807702\lifecycle-runtime-2.1.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.0] C:\Users\Dell\.gradle\caches\transforms-2\files-2.1\a5be9ee033bf7981e67c193565d34bec\versionedparcelable-1.1.0\AndroidManifest.xml:17:1-27:12
+MERGED from [androidx.cursoradapter:cursoradapter:1.0.0] C:\Users\Dell\.gradle\caches\transforms-2\files-2.1\c7abc6221c461b5360188cd419965256\cursoradapter-1.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.lifecycle:lifecycle-viewmodel:2.1.0] C:\Users\Dell\.gradle\caches\transforms-2\files-2.1\aa7f0bb7282b0afe9df096d467cac69b\lifecycle-viewmodel-2.1.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.savedstate:savedstate:1.0.0] C:\Users\Dell\.gradle\caches\transforms-2\files-2.1\29ffe015fd995317329c0358862696c2\savedstate-1.0.0\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.interpolator:interpolator:1.0.0] C:\Users\Dell\.gradle\caches\transforms-2\files-2.1\c2c3c0fa879562a9c8d71f77ba3bc154\interpolator-1.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.lifecycle:lifecycle-livedata:2.0.0] C:\Users\Dell\.gradle\caches\transforms-2\files-2.1\05ae3bbdb744f659b205d5d2b4e34c10\lifecycle-livedata-2.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.lifecycle:lifecycle-livedata-core:2.0.0] C:\Users\Dell\.gradle\caches\transforms-2\files-2.1\9c58b200899a47e839086a435f1e7d30\lifecycle-livedata-core-2.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.arch.core:core-runtime:2.0.0] C:\Users\Dell\.gradle\caches\transforms-2\files-2.1\b2df145f86f645462bd23edcb3a2c570\core-runtime-2.0.0\AndroidManifest.xml:17:1-22:12
+INJECTED from E:\College Study\ApkZube\BlindVision\ColorNameDemo\app\src\main\AndroidManifest.xml:2:1-21:12
+INJECTED from E:\College Study\ApkZube\BlindVision\ColorNameDemo\app\src\main\AndroidManifest.xml:2:1-21:12
+INJECTED from E:\College Study\ApkZube\BlindVision\ColorNameDemo\app\src\main\AndroidManifest.xml:2:1-21:12
+	package
+		ADDED from E:\College Study\ApkZube\BlindVision\ColorNameDemo\app\src\main\AndroidManifest.xml:3:5-40
+		INJECTED from E:\College Study\ApkZube\BlindVision\ColorNameDemo\app\src\main\AndroidManifest.xml
+		INJECTED from E:\College Study\ApkZube\BlindVision\ColorNameDemo\app\src\main\AndroidManifest.xml
+	android:versionName
+		INJECTED from E:\College Study\ApkZube\BlindVision\ColorNameDemo\app\src\main\AndroidManifest.xml
+		ADDED from E:\College Study\ApkZube\BlindVision\ColorNameDemo\app\src\main\AndroidManifest.xml:2:1-21:12
+		INJECTED from E:\College Study\ApkZube\BlindVision\ColorNameDemo\app\src\main\AndroidManifest.xml
+	android:versionCode
+		INJECTED from E:\College Study\ApkZube\BlindVision\ColorNameDemo\app\src\main\AndroidManifest.xml
+		ADDED from E:\College Study\ApkZube\BlindVision\ColorNameDemo\app\src\main\AndroidManifest.xml:2:1-21:12
+		INJECTED from E:\College Study\ApkZube\BlindVision\ColorNameDemo\app\src\main\AndroidManifest.xml
+	xmlns:android
+		ADDED from E:\College Study\ApkZube\BlindVision\ColorNameDemo\app\src\main\AndroidManifest.xml:2:11-69
+application
+ADDED from E:\College Study\ApkZube\BlindVision\ColorNameDemo\app\src\main\AndroidManifest.xml:5:5-19:19
+MERGED from [androidx.constraintlayout:constraintlayout:1.1.3] C:\Users\Dell\.gradle\caches\transforms-2\files-2.1\0a5e1b036768b77b325f9c9fff6932cd\constraintlayout-1.1.3\AndroidManifest.xml:9:5-20
+MERGED from [androidx.constraintlayout:constraintlayout:1.1.3] C:\Users\Dell\.gradle\caches\transforms-2\files-2.1\0a5e1b036768b77b325f9c9fff6932cd\constraintlayout-1.1.3\AndroidManifest.xml:9:5-20
+MERGED from [androidx.core:core:1.1.0] C:\Users\Dell\.gradle\caches\transforms-2\files-2.1\562dc0bf5271c61f65ec6c64ea84320f\core-1.1.0\AndroidManifest.xml:24:5-89
+MERGED from [androidx.core:core:1.1.0] C:\Users\Dell\.gradle\caches\transforms-2\files-2.1\562dc0bf5271c61f65ec6c64ea84320f\core-1.1.0\AndroidManifest.xml:24:5-89
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.0] C:\Users\Dell\.gradle\caches\transforms-2\files-2.1\a5be9ee033bf7981e67c193565d34bec\versionedparcelable-1.1.0\AndroidManifest.xml:24:5-25:19
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.0] C:\Users\Dell\.gradle\caches\transforms-2\files-2.1\a5be9ee033bf7981e67c193565d34bec\versionedparcelable-1.1.0\AndroidManifest.xml:24:5-25:19
+	android:appComponentFactory
+		ADDED from [androidx.core:core:1.1.0] C:\Users\Dell\.gradle\caches\transforms-2\files-2.1\562dc0bf5271c61f65ec6c64ea84320f\core-1.1.0\AndroidManifest.xml:24:18-86
+	android:supportsRtl
+		ADDED from E:\College Study\ApkZube\BlindVision\ColorNameDemo\app\src\main\AndroidManifest.xml:10:9-35
+	android:label
+		ADDED from E:\College Study\ApkZube\BlindVision\ColorNameDemo\app\src\main\AndroidManifest.xml:8:9-41
+	android:roundIcon
+		ADDED from E:\College Study\ApkZube\BlindVision\ColorNameDemo\app\src\main\AndroidManifest.xml:9:9-54
+	android:icon
+		ADDED from E:\College Study\ApkZube\BlindVision\ColorNameDemo\app\src\main\AndroidManifest.xml:7:9-43
+	android:allowBackup
+		ADDED from E:\College Study\ApkZube\BlindVision\ColorNameDemo\app\src\main\AndroidManifest.xml:6:9-35
+	android:theme
+		ADDED from E:\College Study\ApkZube\BlindVision\ColorNameDemo\app\src\main\AndroidManifest.xml:11:9-40
+activity#com.apkzube.colornamedemo.MainActivity
+ADDED from E:\College Study\ApkZube\BlindVision\ColorNameDemo\app\src\main\AndroidManifest.xml:12:9-18:20
+	android:name
+		ADDED from E:\College Study\ApkZube\BlindVision\ColorNameDemo\app\src\main\AndroidManifest.xml:12:19-47
+intent-filter#action:name:android.intent.action.MAIN+category:name:android.intent.category.LAUNCHER
+ADDED from E:\College Study\ApkZube\BlindVision\ColorNameDemo\app\src\main\AndroidManifest.xml:13:13-17:29
+action#android.intent.action.MAIN
+ADDED from E:\College Study\ApkZube\BlindVision\ColorNameDemo\app\src\main\AndroidManifest.xml:14:17-69
+	android:name
+		ADDED from E:\College Study\ApkZube\BlindVision\ColorNameDemo\app\src\main\AndroidManifest.xml:14:25-66
+category#android.intent.category.LAUNCHER
+ADDED from E:\College Study\ApkZube\BlindVision\ColorNameDemo\app\src\main\AndroidManifest.xml:16:17-77
+	android:name
+		ADDED from E:\College Study\ApkZube\BlindVision\ColorNameDemo\app\src\main\AndroidManifest.xml:16:27-74
+uses-sdk
+INJECTED from E:\College Study\ApkZube\BlindVision\ColorNameDemo\app\src\main\AndroidManifest.xml reason: use-sdk injection requested
+INJECTED from E:\College Study\ApkZube\BlindVision\ColorNameDemo\app\src\main\AndroidManifest.xml
+INJECTED from E:\College Study\ApkZube\BlindVision\ColorNameDemo\app\src\main\AndroidManifest.xml
+MERGED from [androidx.databinding:databinding-adapters:3.6.0-alpha05] C:\Users\Dell\.gradle\caches\transforms-2\files-2.1\f8b560d990ea4abf79983052fa2fb922\databinding-adapters-3.6.0-alpha05\AndroidManifest.xml:22:5-44
+MERGED from [androidx.databinding:databinding-adapters:3.6.0-alpha05] C:\Users\Dell\.gradle\caches\transforms-2\files-2.1\f8b560d990ea4abf79983052fa2fb922\databinding-adapters-3.6.0-alpha05\AndroidManifest.xml:22:5-44
+MERGED from [androidx.databinding:databinding-runtime:3.6.0-alpha05] C:\Users\Dell\.gradle\caches\transforms-2\files-2.1\0fc63d104d4736dbb9f67207c3b79bed\databinding-runtime-3.6.0-alpha05\AndroidManifest.xml:22:5-44
+MERGED from [androidx.databinding:databinding-runtime:3.6.0-alpha05] C:\Users\Dell\.gradle\caches\transforms-2\files-2.1\0fc63d104d4736dbb9f67207c3b79bed\databinding-runtime-3.6.0-alpha05\AndroidManifest.xml:22:5-44
+MERGED from [:apkzube-findcolorname] E:\College Study\ApkZube\BlindVision\ColorNameDemo\apkzube-findcolorname\build\intermediates\library_manifest\debug\AndroidManifest.xml:7:5-9:41
+MERGED from [:apkzube-findcolorname] E:\College Study\ApkZube\BlindVision\ColorNameDemo\apkzube-findcolorname\build\intermediates\library_manifest\debug\AndroidManifest.xml:7:5-9:41
+MERGED from [androidx.appcompat:appcompat:1.1.0] C:\Users\Dell\.gradle\caches\transforms-2\files-2.1\514b34dadbf8e5520ce78c9418b31f25\appcompat-1.1.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.appcompat:appcompat:1.1.0] C:\Users\Dell\.gradle\caches\transforms-2\files-2.1\514b34dadbf8e5520ce78c9418b31f25\appcompat-1.1.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.constraintlayout:constraintlayout:1.1.3] C:\Users\Dell\.gradle\caches\transforms-2\files-2.1\0a5e1b036768b77b325f9c9fff6932cd\constraintlayout-1.1.3\AndroidManifest.xml:5:5-7:41
+MERGED from [androidx.constraintlayout:constraintlayout:1.1.3] C:\Users\Dell\.gradle\caches\transforms-2\files-2.1\0a5e1b036768b77b325f9c9fff6932cd\constraintlayout-1.1.3\AndroidManifest.xml:5:5-7:41
+MERGED from [com.github.yukuku:ambilwarna:2.0.1] C:\Users\Dell\.gradle\caches\transforms-2\files-2.1\5eba0457b54b3e58634a37e2b3a8668a\ambilwarna-2.0.1\AndroidManifest.xml:8:5-10:41
+MERGED from [com.github.yukuku:ambilwarna:2.0.1] C:\Users\Dell\.gradle\caches\transforms-2\files-2.1\5eba0457b54b3e58634a37e2b3a8668a\ambilwarna-2.0.1\AndroidManifest.xml:8:5-10:41
+MERGED from [androidx.databinding:viewbinding:3.6.0-alpha05] C:\Users\Dell\.gradle\caches\transforms-2\files-2.1\4e5237ea3c70e242e5311cbc98f7d237\viewbinding-3.6.0-alpha05\AndroidManifest.xml:20:5-44
+MERGED from [androidx.databinding:viewbinding:3.6.0-alpha05] C:\Users\Dell\.gradle\caches\transforms-2\files-2.1\4e5237ea3c70e242e5311cbc98f7d237\viewbinding-3.6.0-alpha05\AndroidManifest.xml:20:5-44
+MERGED from [androidx.fragment:fragment:1.1.0] C:\Users\Dell\.gradle\caches\transforms-2\files-2.1\81bb1e4b52adb53299629bd00b7fb1d8\fragment-1.1.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.fragment:fragment:1.1.0] C:\Users\Dell\.gradle\caches\transforms-2\files-2.1\81bb1e4b52adb53299629bd00b7fb1d8\fragment-1.1.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.appcompat:appcompat-resources:1.1.0] C:\Users\Dell\.gradle\caches\transforms-2\files-2.1\230c050f7abb294c4a554b9cce40d3c5\appcompat-resources-1.1.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.appcompat:appcompat-resources:1.1.0] C:\Users\Dell\.gradle\caches\transforms-2\files-2.1\230c050f7abb294c4a554b9cce40d3c5\appcompat-resources-1.1.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.drawerlayout:drawerlayout:1.0.0] C:\Users\Dell\.gradle\caches\transforms-2\files-2.1\5ef26c5f70bb0e9aa01f925926df8980\drawerlayout-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.drawerlayout:drawerlayout:1.0.0] C:\Users\Dell\.gradle\caches\transforms-2\files-2.1\5ef26c5f70bb0e9aa01f925926df8980\drawerlayout-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.viewpager:viewpager:1.0.0] C:\Users\Dell\.gradle\caches\transforms-2\files-2.1\3abde5b60aac3c617ee2493a824e9744\viewpager-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.viewpager:viewpager:1.0.0] C:\Users\Dell\.gradle\caches\transforms-2\files-2.1\3abde5b60aac3c617ee2493a824e9744\viewpager-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.loader:loader:1.0.0] C:\Users\Dell\.gradle\caches\transforms-2\files-2.1\2ece749b2aabe02c40af6bfecc8abb6f\loader-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.loader:loader:1.0.0] C:\Users\Dell\.gradle\caches\transforms-2\files-2.1\2ece749b2aabe02c40af6bfecc8abb6f\loader-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.activity:activity:1.0.0] C:\Users\Dell\.gradle\caches\transforms-2\files-2.1\952c7eb96ce9207cbb23b64d6adce29b\activity-1.0.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.activity:activity:1.0.0] C:\Users\Dell\.gradle\caches\transforms-2\files-2.1\952c7eb96ce9207cbb23b64d6adce29b\activity-1.0.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.vectordrawable:vectordrawable-animated:1.1.0] C:\Users\Dell\.gradle\caches\transforms-2\files-2.1\4dd375ff3b9cdb68967e3ec18f05a532\vectordrawable-animated-1.1.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.vectordrawable:vectordrawable-animated:1.1.0] C:\Users\Dell\.gradle\caches\transforms-2\files-2.1\4dd375ff3b9cdb68967e3ec18f05a532\vectordrawable-animated-1.1.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.vectordrawable:vectordrawable:1.1.0] C:\Users\Dell\.gradle\caches\transforms-2\files-2.1\332c5cdf7c7457b1fce41d5ec85170dd\vectordrawable-1.1.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.vectordrawable:vectordrawable:1.1.0] C:\Users\Dell\.gradle\caches\transforms-2\files-2.1\332c5cdf7c7457b1fce41d5ec85170dd\vectordrawable-1.1.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.customview:customview:1.0.0] C:\Users\Dell\.gradle\caches\transforms-2\files-2.1\9f552cbe538e9b49a5d22679aeffe5f2\customview-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.customview:customview:1.0.0] C:\Users\Dell\.gradle\caches\transforms-2\files-2.1\9f552cbe538e9b49a5d22679aeffe5f2\customview-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.core:core:1.1.0] C:\Users\Dell\.gradle\caches\transforms-2\files-2.1\562dc0bf5271c61f65ec6c64ea84320f\core-1.1.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.core:core:1.1.0] C:\Users\Dell\.gradle\caches\transforms-2\files-2.1\562dc0bf5271c61f65ec6c64ea84320f\core-1.1.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.lifecycle:lifecycle-runtime:2.1.0] C:\Users\Dell\.gradle\caches\transforms-2\files-2.1\f4e70f7cf70c38da20d2c2bf38807702\lifecycle-runtime-2.1.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-runtime:2.1.0] C:\Users\Dell\.gradle\caches\transforms-2\files-2.1\f4e70f7cf70c38da20d2c2bf38807702\lifecycle-runtime-2.1.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.0] C:\Users\Dell\.gradle\caches\transforms-2\files-2.1\a5be9ee033bf7981e67c193565d34bec\versionedparcelable-1.1.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.0] C:\Users\Dell\.gradle\caches\transforms-2\files-2.1\a5be9ee033bf7981e67c193565d34bec\versionedparcelable-1.1.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.cursoradapter:cursoradapter:1.0.0] C:\Users\Dell\.gradle\caches\transforms-2\files-2.1\c7abc6221c461b5360188cd419965256\cursoradapter-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.cursoradapter:cursoradapter:1.0.0] C:\Users\Dell\.gradle\caches\transforms-2\files-2.1\c7abc6221c461b5360188cd419965256\cursoradapter-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-viewmodel:2.1.0] C:\Users\Dell\.gradle\caches\transforms-2\files-2.1\aa7f0bb7282b0afe9df096d467cac69b\lifecycle-viewmodel-2.1.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-viewmodel:2.1.0] C:\Users\Dell\.gradle\caches\transforms-2\files-2.1\aa7f0bb7282b0afe9df096d467cac69b\lifecycle-viewmodel-2.1.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.savedstate:savedstate:1.0.0] C:\Users\Dell\.gradle\caches\transforms-2\files-2.1\29ffe015fd995317329c0358862696c2\savedstate-1.0.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.savedstate:savedstate:1.0.0] C:\Users\Dell\.gradle\caches\transforms-2\files-2.1\29ffe015fd995317329c0358862696c2\savedstate-1.0.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.interpolator:interpolator:1.0.0] C:\Users\Dell\.gradle\caches\transforms-2\files-2.1\c2c3c0fa879562a9c8d71f77ba3bc154\interpolator-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.interpolator:interpolator:1.0.0] C:\Users\Dell\.gradle\caches\transforms-2\files-2.1\c2c3c0fa879562a9c8d71f77ba3bc154\interpolator-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-livedata:2.0.0] C:\Users\Dell\.gradle\caches\transforms-2\files-2.1\05ae3bbdb744f659b205d5d2b4e34c10\lifecycle-livedata-2.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-livedata:2.0.0] C:\Users\Dell\.gradle\caches\transforms-2\files-2.1\05ae3bbdb744f659b205d5d2b4e34c10\lifecycle-livedata-2.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-livedata-core:2.0.0] C:\Users\Dell\.gradle\caches\transforms-2\files-2.1\9c58b200899a47e839086a435f1e7d30\lifecycle-livedata-core-2.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-livedata-core:2.0.0] C:\Users\Dell\.gradle\caches\transforms-2\files-2.1\9c58b200899a47e839086a435f1e7d30\lifecycle-livedata-core-2.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.arch.core:core-runtime:2.0.0] C:\Users\Dell\.gradle\caches\transforms-2\files-2.1\b2df145f86f645462bd23edcb3a2c570\core-runtime-2.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.arch.core:core-runtime:2.0.0] C:\Users\Dell\.gradle\caches\transforms-2\files-2.1\b2df145f86f645462bd23edcb3a2c570\core-runtime-2.0.0\AndroidManifest.xml:20:5-44
+INJECTED from E:\College Study\ApkZube\BlindVision\ColorNameDemo\app\src\main\AndroidManifest.xml
+INJECTED from E:\College Study\ApkZube\BlindVision\ColorNameDemo\app\src\main\AndroidManifest.xml
+	android:targetSdkVersion
+		INJECTED from E:\College Study\ApkZube\BlindVision\ColorNameDemo\app\src\main\AndroidManifest.xml
+		ADDED from E:\College Study\ApkZube\BlindVision\ColorNameDemo\app\src\main\AndroidManifest.xml
+		INJECTED from E:\College Study\ApkZube\BlindVision\ColorNameDemo\app\src\main\AndroidManifest.xml
+	android:minSdkVersion
+		INJECTED from E:\College Study\ApkZube\BlindVision\ColorNameDemo\app\src\main\AndroidManifest.xml
+		ADDED from E:\College Study\ApkZube\BlindVision\ColorNameDemo\app\src\main\AndroidManifest.xml
+		INJECTED from E:\College Study\ApkZube\BlindVision\ColorNameDemo\app\src\main\AndroidManifest.xml

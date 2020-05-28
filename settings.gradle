@@ -1,0 +1,4 @@
+rootProject.name='ColorNameDemo'
+include ':app'
+include ':ApkZube-FindColorNameDemo'
+include ':apkzube-findcolorname'
